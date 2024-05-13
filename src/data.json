@@ -1,0 +1,22 @@
+[
+  {
+    "content": "hello nigga",
+    "topic": "human rights",
+    "id": 3
+  },
+  {
+    "content": "hello nigga",
+    "topic": "human rights",
+    "id": 5
+  },
+  {
+    "id": 6,
+    "content": "lorem ipsum",
+    "topic": "sports"
+  },
+  {
+    "id": 5,
+    "content": "lorem ipsum",
+    "topic": "sports"
+  }
+]
